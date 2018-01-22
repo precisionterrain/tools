@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on T3RRA Tools</title>
+    <link>http://tools.t3rra.com/post/</link>
+    <description>Recent content in Posts on T3RRA Tools</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 09 May 2017 08:00:00 +1100</lastBuildDate>
+    
+	<atom:link href="http://tools.t3rra.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>T3RRA 3D</title>
+      <link>http://tools.t3rra.com/post/3d.en/</link>
+      <pubDate>Tue, 09 May 2017 08:00:00 +1100</pubDate>
+      
+      <guid>http://tools.t3rra.com/post/3d.en/</guid>
+      <description>T3RRA 3D is a simple web app that uses your tractor logs to generate interactive 3D models of your fields. Simulate rainfall and observe where water runs, drains, and pools. Target your drainage and dirt work operations to those areas that need them most.
+To create an elevation model of your field you would typically have to do a separate survey of the field with specialist data logging software. However, data that you have in the John Deere Operations Center from operations such as planting, tillage, and harvesting already contains elevation information.</description>
+    </item>
+    
+    <item>
+      <title>T3RRA Drains</title>
+      <link>http://tools.t3rra.com/post/drains.en/</link>
+      <pubDate>Tue, 09 May 2017 08:00:00 +1100</pubDate>
+      
+      <guid>http://tools.t3rra.com/post/drains.en/</guid>
+      <description>This app allows you to analyze your field elevation data and find out where you have depressions which need to be drained. You can then automatically create drain lines and turn them into guidance paths suitable for use in your tractor.
+Use elevation layers created in T3RRA 3D as input. Save projects to your hard drive.
+Push your maps and guidance curves up to the John Deere Operations Center.
+No software download required.</description>
+    </item>
+    
+    <item>
+      <title>T3RRA Levees</title>
+      <link>http://tools.t3rra.com/post/levees.en/</link>
+      <pubDate>Tue, 09 May 2017 08:00:00 +1100</pubDate>
+      
+      <guid>http://tools.t3rra.com/post/levees.en/</guid>
+      <description>Just set a start elevation and the levee distance and T3RRA Levees will automatically create levees on your surface.</description>
+    </item>
+    
+    <item>
+      <title>T3RRA Swath</title>
+      <link>http://tools.t3rra.com/post/swath.en/</link>
+      <pubDate>Tue, 09 May 2017 08:00:00 +1100</pubDate>
+      
+      <guid>http://tools.t3rra.com/post/swath.en/</guid>
+      <description>T3RRA Swath is a simple utility for calculating the swath width that a field operation used. The app analyzes the pass-to-pass distances to estimate the width of the implement being used in the field operation. A comparison of the number determined here, and the actual implement width will give an estimate of over- or under-lap during the field operation.
+No software download required. Runs in your browser.</description>
+    </item>
+    
+    <item>
+      <title>T3RRA Terraces</title>
+      <link>http://tools.t3rra.com/post/terraces.en/</link>
+      <pubDate>Tue, 09 May 2017 08:00:00 +1100</pubDate>
+      
+      <guid>http://tools.t3rra.com/post/terraces.en/</guid>
+      <description>T3RRA Terraces allows you to create sets of terraces which than can be exported as guidance lines.</description>
+    </item>
+    
+    <item>
+      <title>T3RRA Paint</title>
+      <link>http://tools.t3rra.com/post/paint.en/</link>
+      <pubDate>Mon, 08 May 2017 08:00:00 +1100</pubDate>
+      
+      <guid>http://tools.t3rra.com/post/paint.en/</guid>
+      <description>T3RRA Paint is the easiest way to create a field prescription map. If you can draw a picture, you can make an Rx map!
+Unlike regular tools, we don&amp;rsquo;t make you create zone boundaries, so there is no need to do the &amp;ldquo;click-around-a-zone&amp;rdquo; dance. We allow you to create a map the same way you would if you were using pen and paper.
+No software download required. Runs in your browser.</description>
+    </item>
+    
+    <item>
+      <title>Layer Deleter</title>
+      <link>http://tools.t3rra.com/post/deleter.en/</link>
+      <pubDate>Wed, 01 Mar 2017 08:00:00 +1100</pubDate>
+      
+      <guid>http://tools.t3rra.com/post/deleter.en/</guid>
+      <description>Do you have too many layer summaries on one field, or have you accidentally uploaded the wrong one? This is a simple utility to help you clean up your John Deere Operations Center by deleting unwanted layer summaries.</description>
+    </item>
+    
+    <item>
+      <title>T3RRA Cutta</title>
+      <link>http://tools.t3rra.com/post/t3c.en/</link>
+      <pubDate>Wed, 29 Mar 2017 08:00:00 +1100</pubDate>
+      
+      <guid>http://tools.t3rra.com/post/t3c.en/</guid>
+      <description>T3RRA Cutta is the easiest and most comprehensive in-cab package for agricultural land-forming. You can survey, design, and implement - all without leaving the tractor.
+Backed by the support and knowledge of your John Deere™ dealer network, T3RRA Cutta™ works with John Deere iGrade™ to allow you to sculpt your farm terrain to your exact specifications.
+T3RRA Cutta™ is wizard based - it guides you through the landforming process, from elevation collection to to design implementation.</description>
+    </item>
+    
+    <item>
+      <title>T3RRA Design</title>
+      <link>http://tools.t3rra.com/post/t3d.en/</link>
+      <pubDate>Wed, 29 Mar 2017 08:00:00 +1100</pubDate>
+      
+      <guid>http://tools.t3rra.com/post/t3d.en/</guid>
+      <description>Professional desktop terrain design software built for professional farmers. T3RRA Design™ has more capabilities than any comparable land&amp;rsquo;forming software package on the market.
+T3RRA Design™ isn&amp;rsquo;t only for the big boys. T3RRA Cutta™ projects load directly at no cost. 3rd party data can be imported from many sources at reasonable, area-based rates.
+Unlike the competition, T3RRA Design™ isn&amp;rsquo;t a &amp;lsquo;dumbed down&amp;rsquo; version of some civil engineering CAD package. T3RRA Design™ was built from the ground up for growers.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://tools.t3rra.com/post/3d.en/</loc>
+    <lastmod>2017-05-09T08:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tools.t3rra.com/post/drains.en/</loc>
+    <lastmod>2017-05-09T08:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tools.t3rra.com/post/levees.en/</loc>
+    <lastmod>2017-05-09T08:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tools.t3rra.com/post/swath.en/</loc>
+    <lastmod>2017-05-09T08:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tools.t3rra.com/post/terraces.en/</loc>
+    <lastmod>2017-05-09T08:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tools.t3rra.com/post/paint.en/</loc>
+    <lastmod>2017-05-08T08:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tools.t3rra.com/post/deleter.en/</loc>
+    <lastmod>2017-03-01T08:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tools.t3rra.com/post/t3c.en/</loc>
+    <lastmod>2017-03-29T08:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tools.t3rra.com/post/t3d.en/</loc>
+    <lastmod>2017-03-29T08:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tools.t3rra.com/about/about/</loc>
+    <lastmod>2017-03-01T08:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tools.t3rra.com/about/</loc>
+    <lastmod>2017-03-01T08:00:00+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tools.t3rra.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tools.t3rra.com/post/</loc>
+    <lastmod>2017-05-09T08:00:00+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tools.t3rra.com/</loc>
+    <lastmod>2017-05-09T08:00:00+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tools.t3rra.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

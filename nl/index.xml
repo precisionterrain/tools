@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T3RRA.nl</title>
+    <link>http://www.t3rra.nl/</link>
+    <description>Recent content on T3RRA.nl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 09 May 2017 08:00:00 +1100</lastBuildDate>
+    
+	<atom:link href="http://www.t3rra.nl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>T3RRA 3D</title>
+      <link>http://www.t3rra.nl/post/3d.nl/</link>
+      <pubDate>Tue, 09 May 2017 08:00:00 +1100</pubDate>
+      
+      <guid>http://www.t3rra.nl/post/3d.nl/</guid>
+      <description>T3RRA 3D is een eenvoudige webapplicatie die uw trekkerlogboeken gebruikt om interactieve 3D-modellen van uw velden te genereren. Simuleer regenval en let op waar water loopt, afvoer en zwembaden. Doel uw drainage- en vuilwerkoperaties naar de gebieden die hen het meest nodig hebben.
+Als u een elevatiemodel wilt maken van uw veld, dan dient u typisch een aparte enquête van het veld te maken met software voor specialistische logging. Echter, gegevens die u in het Operatiecentrum hebt van bewerkingen zoals planten, bewerking en oogsten bevatten alvast informatie over de hoogte.</description>
+    </item>
+    
+    <item>
+      <title>T3RRA Drains (Beta)</title>
+      <link>http://www.t3rra.nl/post/drains.nl/</link>
+      <pubDate>Tue, 09 May 2017 08:00:00 +1100</pubDate>
+      
+      <guid>http://www.t3rra.nl/post/drains.nl/</guid>
+      <description>Met deze app kunt u uw veldhoogtegegevens analyseren en erachter komen waar u depressies heeft die moeten worden gedreineerd. Vervolgens kunt u automatisch drainage lijnen creëren en deze in de begeleidingspaden maken die geschikt zijn voor gebruik in uw trekker.
+Gebruik verhoging lagen gemaakt in T3RRA 3D als invoer. Bewaar projecten op uw harde schijf.
+Duw uw kaarten en begeleidingscurven naar het John Deere Operations Center.
+Geen software download vereist. Loopt in uw browser.</description>
+    </item>
+    
+    <item>
+      <title>T3RRA Swath</title>
+      <link>http://www.t3rra.nl/post/swath.nl/</link>
+      <pubDate>Tue, 09 May 2017 08:00:00 +1100</pubDate>
+      
+      <guid>http://www.t3rra.nl/post/swath.nl/</guid>
+      <description>T3RRA Swath is een eenvoudig hulpprogramma voor het berekenen van de zwaardbreedte die een veldoperatie gebruikt. De app analyseert de pass-to-pass afstande om de breedte van het implement dat wordt gebruikt in de veldwerking te schatten. Een vergelijking van het hier bepaald aantal en de werkelijke implementbreedte geeft een schatting van over- of onderlap tijdens de veldwerking.
+Geen software download vereist. Loopt in uw browser.</description>
+    </item>
+    
+    <item>
+      <title>T3RRA Paint</title>
+      <link>http://www.t3rra.nl/post/paint.nl/</link>
+      <pubDate>Mon, 08 May 2017 08:00:00 +1100</pubDate>
+      
+      <guid>http://www.t3rra.nl/post/paint.nl/</guid>
+      <description>T3RRA Paint is de makkelijkste manier om een ​​veldvoorschriftskaart te maken. Als u een foto kunt tekenen, kunt u een Rx-kaart maken!
+In tegenstelling tot gewone gereedschappen maken we u geen zonegrenzen aan, dus het is niet nodig om de &amp;ldquo;click-a-zone&amp;rdquo; -dans te doen. Wij staan ​​u toe om een ​​kaart op dezelfde manier te maken als u pen en papier gebruikt.
+Geen software download vereist. Loopt in uw browser.</description>
+    </item>
+    
+    <item>
+      <title>Layer Deleter</title>
+      <link>http://www.t3rra.nl/post/deleter.nl/</link>
+      <pubDate>Wed, 01 Mar 2017 08:00:00 +1100</pubDate>
+      
+      <guid>http://www.t3rra.nl/post/deleter.nl/</guid>
+      <description>Heeft u te veel laagsamenvattingen op één veld, of heeft u per ongeluk de verkeerde foto geplaatst? Dit is een eenvoudig hulpprogramma om u te helpen uw Operations Center op te ruimen door ongewenste samenvattingen van lagen te verwijderen.</description>
+    </item>
+    
+    <item>
+      <title>T3RRA Cutta</title>
+      <link>http://www.t3rra.nl/post/t3c.nl/</link>
+      <pubDate>Wed, 29 Mar 2017 08:00:00 +1100</pubDate>
+      
+      <guid>http://www.t3rra.nl/post/t3c.nl/</guid>
+      <description>T3RRA Cutta is het makkelijkste en meest uitgebreide in-cab pakket voor landbouwgrondvorming. U kunt onderzoeken, ontwerpen en implementeren - alles zonder de trekker te verlaten.
+Gesteund door de ondersteuning en kennis van uw John Deere™ dealer netwerk, werkt T3RRA Cutta™ met John Deere iGrade™, zodat u uw boerderij terrein kunt aanpassen aan uw exacte specificaties.
+T3RRA Cutta™ is een tovenaar gebaseerd - het leidt u door het landvormingsproces, van elevatiecollectie tot ontwerpontwerp.</description>
+    </item>
+    
+    <item>
+      <title>T3RRA Design</title>
+      <link>http://www.t3rra.nl/post/t3d.nl/</link>
+      <pubDate>Wed, 29 Mar 2017 08:00:00 +1100</pubDate>
+      
+      <guid>http://www.t3rra.nl/post/t3d.nl/</guid>
+      <description>Professioneel desktop terrein ontwerp software gebouwd voor professionele boeren. T3RRA Design™ heeft meer mogelijkheden dan alle vergelijkbare software op het gebied van landforming op de markt.
+T3RRA Design™ is niet alleen voor de grote jongens. T3RRA Cutta™ -projecten laden direct zonder kosten. Data van derden kan vanuit vele bronnen worden ingevoerd tegen redelijke prijzen op gebied.
+In tegenstelling tot de competitie is T3RRA Design™ niet een &amp;lsquo;dumbed down&amp;rsquo; versie van een aantal civiele techniek CAD-pakketten.</description>
+    </item>
+    
+    <item>
+      <title>Applications</title>
+      <link>http://www.t3rra.nl/about/about/</link>
+      <pubDate>Wed, 01 Mar 2017 08:00:00 +1100</pubDate>
+      
+      <guid>http://www.t3rra.nl/about/about/</guid>
+      <description>There are projected to be 9 billion people on this planet in another 20 years. We want to help feed and clothe them all. We have innovative solutions, out-of-the-box thinking, and fantastic people. You&amp;rsquo;ll find that our software does things offered by no-one else.
+GPS guided terrain enhancement is now a reality. We provide industry leading software to make this happen: with greatest ease, and at least cost. Optimized land levelling, terraces, contour banks, drains, levees.</description>
+    </item>
+    
+  </channel>
+</rss>

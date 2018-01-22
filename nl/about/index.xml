@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on T3RRA.nl</title>
+    <link>http://www.t3rra.nl/about/</link>
+    <description>Recent content in Abouts on T3RRA.nl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 01 Mar 2017 08:00:00 +1100</lastBuildDate>
+    
+	<atom:link href="http://www.t3rra.nl/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Applications</title>
+      <link>http://www.t3rra.nl/about/about/</link>
+      <pubDate>Wed, 01 Mar 2017 08:00:00 +1100</pubDate>
+      
+      <guid>http://www.t3rra.nl/about/about/</guid>
+      <description>There are projected to be 9 billion people on this planet in another 20 years. We want to help feed and clothe them all. We have innovative solutions, out-of-the-box thinking, and fantastic people. You&amp;rsquo;ll find that our software does things offered by no-one else.
+GPS guided terrain enhancement is now a reality. We provide industry leading software to make this happen: with greatest ease, and at least cost. Optimized land levelling, terraces, contour banks, drains, levees.</description>
+    </item>
+    
+  </channel>
+</rss>
